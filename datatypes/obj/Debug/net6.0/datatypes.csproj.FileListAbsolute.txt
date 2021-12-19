@@ -1,0 +1,15 @@
+/Users/apple/learncs/datatypes/bin/Debug/net6.0/datatypes
+/Users/apple/learncs/datatypes/bin/Debug/net6.0/datatypes.deps.json
+/Users/apple/learncs/datatypes/bin/Debug/net6.0/datatypes.runtimeconfig.json
+/Users/apple/learncs/datatypes/bin/Debug/net6.0/datatypes.dll
+/Users/apple/learncs/datatypes/bin/Debug/net6.0/ref/datatypes.dll
+/Users/apple/learncs/datatypes/bin/Debug/net6.0/datatypes.pdb
+/Users/apple/learncs/datatypes/obj/Debug/net6.0/datatypes.csproj.AssemblyReference.cache
+/Users/apple/learncs/datatypes/obj/Debug/net6.0/datatypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/learncs/datatypes/obj/Debug/net6.0/datatypes.AssemblyInfoInputs.cache
+/Users/apple/learncs/datatypes/obj/Debug/net6.0/datatypes.AssemblyInfo.cs
+/Users/apple/learncs/datatypes/obj/Debug/net6.0/datatypes.csproj.CoreCompileInputs.cache
+/Users/apple/learncs/datatypes/obj/Debug/net6.0/datatypes.dll
+/Users/apple/learncs/datatypes/obj/Debug/net6.0/ref/datatypes.dll
+/Users/apple/learncs/datatypes/obj/Debug/net6.0/datatypes.pdb
+/Users/apple/learncs/datatypes/obj/Debug/net6.0/datatypes.genruntimeconfig.cache
