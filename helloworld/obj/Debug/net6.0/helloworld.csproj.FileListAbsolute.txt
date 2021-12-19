@@ -1,0 +1,15 @@
+/Users/apple/learncs/helloworld/bin/Debug/net6.0/helloworld
+/Users/apple/learncs/helloworld/bin/Debug/net6.0/helloworld.deps.json
+/Users/apple/learncs/helloworld/bin/Debug/net6.0/helloworld.runtimeconfig.json
+/Users/apple/learncs/helloworld/bin/Debug/net6.0/helloworld.dll
+/Users/apple/learncs/helloworld/bin/Debug/net6.0/ref/helloworld.dll
+/Users/apple/learncs/helloworld/bin/Debug/net6.0/helloworld.pdb
+/Users/apple/learncs/helloworld/obj/Debug/net6.0/helloworld.csproj.AssemblyReference.cache
+/Users/apple/learncs/helloworld/obj/Debug/net6.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/learncs/helloworld/obj/Debug/net6.0/helloworld.AssemblyInfoInputs.cache
+/Users/apple/learncs/helloworld/obj/Debug/net6.0/helloworld.AssemblyInfo.cs
+/Users/apple/learncs/helloworld/obj/Debug/net6.0/helloworld.csproj.CoreCompileInputs.cache
+/Users/apple/learncs/helloworld/obj/Debug/net6.0/helloworld.dll
+/Users/apple/learncs/helloworld/obj/Debug/net6.0/ref/helloworld.dll
+/Users/apple/learncs/helloworld/obj/Debug/net6.0/helloworld.pdb
+/Users/apple/learncs/helloworld/obj/Debug/net6.0/helloworld.genruntimeconfig.cache
