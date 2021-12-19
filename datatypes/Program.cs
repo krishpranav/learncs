@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace DataTypes {
-    class Int {
+    class Types {
         static void Main(string[] args) {
             int a = 10;
             float b = 53.005f;
