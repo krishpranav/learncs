@@ -1,0 +1,15 @@
+/Users/apple/learncs/loops/forloop/bin/Debug/net6.0/forloop
+/Users/apple/learncs/loops/forloop/bin/Debug/net6.0/forloop.deps.json
+/Users/apple/learncs/loops/forloop/bin/Debug/net6.0/forloop.runtimeconfig.json
+/Users/apple/learncs/loops/forloop/bin/Debug/net6.0/forloop.dll
+/Users/apple/learncs/loops/forloop/bin/Debug/net6.0/ref/forloop.dll
+/Users/apple/learncs/loops/forloop/bin/Debug/net6.0/forloop.pdb
+/Users/apple/learncs/loops/forloop/obj/Debug/net6.0/forloop.csproj.AssemblyReference.cache
+/Users/apple/learncs/loops/forloop/obj/Debug/net6.0/forloop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/learncs/loops/forloop/obj/Debug/net6.0/forloop.AssemblyInfoInputs.cache
+/Users/apple/learncs/loops/forloop/obj/Debug/net6.0/forloop.AssemblyInfo.cs
+/Users/apple/learncs/loops/forloop/obj/Debug/net6.0/forloop.csproj.CoreCompileInputs.cache
+/Users/apple/learncs/loops/forloop/obj/Debug/net6.0/forloop.dll
+/Users/apple/learncs/loops/forloop/obj/Debug/net6.0/ref/forloop.dll
+/Users/apple/learncs/loops/forloop/obj/Debug/net6.0/forloop.pdb
+/Users/apple/learncs/loops/forloop/obj/Debug/net6.0/forloop.genruntimeconfig.cache
