@@ -1,0 +1,15 @@
+/Users/apple/learncs/loops/whileloop/bin/Debug/net6.0/whileloop
+/Users/apple/learncs/loops/whileloop/bin/Debug/net6.0/whileloop.deps.json
+/Users/apple/learncs/loops/whileloop/bin/Debug/net6.0/whileloop.runtimeconfig.json
+/Users/apple/learncs/loops/whileloop/bin/Debug/net6.0/whileloop.dll
+/Users/apple/learncs/loops/whileloop/bin/Debug/net6.0/ref/whileloop.dll
+/Users/apple/learncs/loops/whileloop/bin/Debug/net6.0/whileloop.pdb
+/Users/apple/learncs/loops/whileloop/obj/Debug/net6.0/whileloop.csproj.AssemblyReference.cache
+/Users/apple/learncs/loops/whileloop/obj/Debug/net6.0/whileloop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/learncs/loops/whileloop/obj/Debug/net6.0/whileloop.AssemblyInfoInputs.cache
+/Users/apple/learncs/loops/whileloop/obj/Debug/net6.0/whileloop.AssemblyInfo.cs
+/Users/apple/learncs/loops/whileloop/obj/Debug/net6.0/whileloop.csproj.CoreCompileInputs.cache
+/Users/apple/learncs/loops/whileloop/obj/Debug/net6.0/whileloop.dll
+/Users/apple/learncs/loops/whileloop/obj/Debug/net6.0/ref/whileloop.dll
+/Users/apple/learncs/loops/whileloop/obj/Debug/net6.0/whileloop.pdb
+/Users/apple/learncs/loops/whileloop/obj/Debug/net6.0/whileloop.genruntimeconfig.cache
