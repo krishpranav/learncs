@@ -1,0 +1,15 @@
+/Users/apple/learncs/files/filewrite/bin/Debug/net6.0/filewrite
+/Users/apple/learncs/files/filewrite/bin/Debug/net6.0/filewrite.deps.json
+/Users/apple/learncs/files/filewrite/bin/Debug/net6.0/filewrite.runtimeconfig.json
+/Users/apple/learncs/files/filewrite/bin/Debug/net6.0/filewrite.dll
+/Users/apple/learncs/files/filewrite/bin/Debug/net6.0/ref/filewrite.dll
+/Users/apple/learncs/files/filewrite/bin/Debug/net6.0/filewrite.pdb
+/Users/apple/learncs/files/filewrite/obj/Debug/net6.0/filewrite.csproj.AssemblyReference.cache
+/Users/apple/learncs/files/filewrite/obj/Debug/net6.0/filewrite.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/learncs/files/filewrite/obj/Debug/net6.0/filewrite.AssemblyInfoInputs.cache
+/Users/apple/learncs/files/filewrite/obj/Debug/net6.0/filewrite.AssemblyInfo.cs
+/Users/apple/learncs/files/filewrite/obj/Debug/net6.0/filewrite.csproj.CoreCompileInputs.cache
+/Users/apple/learncs/files/filewrite/obj/Debug/net6.0/filewrite.dll
+/Users/apple/learncs/files/filewrite/obj/Debug/net6.0/ref/filewrite.dll
+/Users/apple/learncs/files/filewrite/obj/Debug/net6.0/filewrite.pdb
+/Users/apple/learncs/files/filewrite/obj/Debug/net6.0/filewrite.genruntimeconfig.cache
