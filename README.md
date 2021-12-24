@@ -6,3 +6,7 @@ Learn Csharp using this repo
 - [`loops`](loops) learn to use different type of loops (while loop + for loop)
 
 - [`comments`](comments) commenting in your code
+
+- [`datatypes`](datatypes) datatypes in csharp
+
+- [`methods`](methods) methods in csharp
