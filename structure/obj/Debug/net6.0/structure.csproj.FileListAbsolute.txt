@@ -1,0 +1,15 @@
+/Users/apple/learncs/structure/obj/Debug/net6.0/structure.csproj.AssemblyReference.cache
+/Users/apple/learncs/structure/obj/Debug/net6.0/structure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/learncs/structure/obj/Debug/net6.0/structure.AssemblyInfoInputs.cache
+/Users/apple/learncs/structure/obj/Debug/net6.0/structure.AssemblyInfo.cs
+/Users/apple/learncs/structure/obj/Debug/net6.0/structure.csproj.CoreCompileInputs.cache
+/Users/apple/learncs/structure/bin/Debug/net6.0/structure
+/Users/apple/learncs/structure/bin/Debug/net6.0/structure.deps.json
+/Users/apple/learncs/structure/bin/Debug/net6.0/structure.runtimeconfig.json
+/Users/apple/learncs/structure/bin/Debug/net6.0/structure.dll
+/Users/apple/learncs/structure/bin/Debug/net6.0/ref/structure.dll
+/Users/apple/learncs/structure/bin/Debug/net6.0/structure.pdb
+/Users/apple/learncs/structure/obj/Debug/net6.0/structure.dll
+/Users/apple/learncs/structure/obj/Debug/net6.0/ref/structure.dll
+/Users/apple/learncs/structure/obj/Debug/net6.0/structure.pdb
+/Users/apple/learncs/structure/obj/Debug/net6.0/structure.genruntimeconfig.cache
