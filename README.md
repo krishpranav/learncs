@@ -10,3 +10,5 @@ Learn Csharp using this repo
 - [`datatypes`](datatypes) datatypes in csharp
 
 - [`methods`](methods) methods in csharp
+
+- [`enums`] (enums) get to know group of constants(enums)
