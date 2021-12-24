@@ -1,0 +1,15 @@
+/Users/apple/learncs/comments/bin/Debug/net6.0/comments
+/Users/apple/learncs/comments/bin/Debug/net6.0/comments.deps.json
+/Users/apple/learncs/comments/bin/Debug/net6.0/comments.runtimeconfig.json
+/Users/apple/learncs/comments/bin/Debug/net6.0/comments.dll
+/Users/apple/learncs/comments/bin/Debug/net6.0/ref/comments.dll
+/Users/apple/learncs/comments/bin/Debug/net6.0/comments.pdb
+/Users/apple/learncs/comments/obj/Debug/net6.0/comments.csproj.AssemblyReference.cache
+/Users/apple/learncs/comments/obj/Debug/net6.0/comments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/learncs/comments/obj/Debug/net6.0/comments.AssemblyInfoInputs.cache
+/Users/apple/learncs/comments/obj/Debug/net6.0/comments.AssemblyInfo.cs
+/Users/apple/learncs/comments/obj/Debug/net6.0/comments.csproj.CoreCompileInputs.cache
+/Users/apple/learncs/comments/obj/Debug/net6.0/comments.dll
+/Users/apple/learncs/comments/obj/Debug/net6.0/ref/comments.dll
+/Users/apple/learncs/comments/obj/Debug/net6.0/comments.pdb
+/Users/apple/learncs/comments/obj/Debug/net6.0/comments.genruntimeconfig.cache
