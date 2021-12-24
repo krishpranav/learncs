@@ -1,0 +1,15 @@
+/Users/apple/learncs/enums/bin/Debug/net6.0/enums
+/Users/apple/learncs/enums/bin/Debug/net6.0/enums.deps.json
+/Users/apple/learncs/enums/bin/Debug/net6.0/enums.runtimeconfig.json
+/Users/apple/learncs/enums/bin/Debug/net6.0/enums.dll
+/Users/apple/learncs/enums/bin/Debug/net6.0/ref/enums.dll
+/Users/apple/learncs/enums/bin/Debug/net6.0/enums.pdb
+/Users/apple/learncs/enums/obj/Debug/net6.0/enums.csproj.AssemblyReference.cache
+/Users/apple/learncs/enums/obj/Debug/net6.0/enums.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/learncs/enums/obj/Debug/net6.0/enums.AssemblyInfoInputs.cache
+/Users/apple/learncs/enums/obj/Debug/net6.0/enums.AssemblyInfo.cs
+/Users/apple/learncs/enums/obj/Debug/net6.0/enums.csproj.CoreCompileInputs.cache
+/Users/apple/learncs/enums/obj/Debug/net6.0/enums.dll
+/Users/apple/learncs/enums/obj/Debug/net6.0/ref/enums.dll
+/Users/apple/learncs/enums/obj/Debug/net6.0/enums.pdb
+/Users/apple/learncs/enums/obj/Debug/net6.0/enums.genruntimeconfig.cache
