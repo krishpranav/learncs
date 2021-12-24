@@ -1,0 +1,15 @@
+/Users/apple/learncs/files/fileread/bin/Debug/net6.0/fileread
+/Users/apple/learncs/files/fileread/bin/Debug/net6.0/fileread.deps.json
+/Users/apple/learncs/files/fileread/bin/Debug/net6.0/fileread.runtimeconfig.json
+/Users/apple/learncs/files/fileread/bin/Debug/net6.0/fileread.dll
+/Users/apple/learncs/files/fileread/bin/Debug/net6.0/ref/fileread.dll
+/Users/apple/learncs/files/fileread/bin/Debug/net6.0/fileread.pdb
+/Users/apple/learncs/files/fileread/obj/Debug/net6.0/fileread.csproj.AssemblyReference.cache
+/Users/apple/learncs/files/fileread/obj/Debug/net6.0/fileread.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/learncs/files/fileread/obj/Debug/net6.0/fileread.AssemblyInfoInputs.cache
+/Users/apple/learncs/files/fileread/obj/Debug/net6.0/fileread.AssemblyInfo.cs
+/Users/apple/learncs/files/fileread/obj/Debug/net6.0/fileread.csproj.CoreCompileInputs.cache
+/Users/apple/learncs/files/fileread/obj/Debug/net6.0/fileread.dll
+/Users/apple/learncs/files/fileread/obj/Debug/net6.0/ref/fileread.dll
+/Users/apple/learncs/files/fileread/obj/Debug/net6.0/fileread.pdb
+/Users/apple/learncs/files/fileread/obj/Debug/net6.0/fileread.genruntimeconfig.cache
