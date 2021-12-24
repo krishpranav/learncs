@@ -14,3 +14,5 @@ Learn Csharp using this repo
 - [`enums`](enums) get to know group of constants(enums)
 
 - [`files`](files) file handling
+
+- [`structure`](structure) struct's in csharp
