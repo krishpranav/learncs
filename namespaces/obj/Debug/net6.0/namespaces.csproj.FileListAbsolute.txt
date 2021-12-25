@@ -1,0 +1,15 @@
+/Users/apple/learncs/namespaces/bin/Debug/net6.0/namespaces
+/Users/apple/learncs/namespaces/bin/Debug/net6.0/namespaces.deps.json
+/Users/apple/learncs/namespaces/bin/Debug/net6.0/namespaces.runtimeconfig.json
+/Users/apple/learncs/namespaces/bin/Debug/net6.0/namespaces.dll
+/Users/apple/learncs/namespaces/bin/Debug/net6.0/ref/namespaces.dll
+/Users/apple/learncs/namespaces/bin/Debug/net6.0/namespaces.pdb
+/Users/apple/learncs/namespaces/obj/Debug/net6.0/namespaces.csproj.AssemblyReference.cache
+/Users/apple/learncs/namespaces/obj/Debug/net6.0/namespaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/learncs/namespaces/obj/Debug/net6.0/namespaces.AssemblyInfoInputs.cache
+/Users/apple/learncs/namespaces/obj/Debug/net6.0/namespaces.AssemblyInfo.cs
+/Users/apple/learncs/namespaces/obj/Debug/net6.0/namespaces.csproj.CoreCompileInputs.cache
+/Users/apple/learncs/namespaces/obj/Debug/net6.0/namespaces.dll
+/Users/apple/learncs/namespaces/obj/Debug/net6.0/ref/namespaces.dll
+/Users/apple/learncs/namespaces/obj/Debug/net6.0/namespaces.pdb
+/Users/apple/learncs/namespaces/obj/Debug/net6.0/namespaces.genruntimeconfig.cache
