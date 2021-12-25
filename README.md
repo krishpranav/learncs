@@ -18,3 +18,5 @@ Learn Csharp using this repo
 - [`structure`](structure) struct's in csharp
 
 - [`classes`](classes) classes and objects in csharp
+
+- [`namespaces`](namespaces)
