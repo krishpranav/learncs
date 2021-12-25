@@ -19,4 +19,4 @@ Learn Csharp using this repo
 
 - [`classes`](classes) classes and objects in csharp
 
-- [`namespaces`](namespaces)
+- [`namespaces`](namespaces) namespaces in c#
